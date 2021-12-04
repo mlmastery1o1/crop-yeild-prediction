@@ -1,0 +1,2 @@
+# crop-yeild-prediction
+CYP is one of the challenging problems in precision agriculture. Crop yield depends  on many factors such as climate, whether, soil, use of fertilizers and seed variety. To  develop a model to predict the yield of a crop before cultivating into the agricultural field. A predictive model will be using the evaluation parameters like temperature, rail  fall, area, season. The prediction is based on this past experience.
